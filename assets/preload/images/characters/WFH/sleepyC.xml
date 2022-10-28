@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sleepyC.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="10" y="10" width="1282" height="920" pivotX="580.65" pivotY="-20.15" frameX="0" frameY="-14" frameWidth="1282" frameHeight="934"/>
+	<SubTexture name="idle0001" x="1302" y="10" width="1282" height="925" frameX="0" frameY="-9" frameWidth="1282" frameHeight="934"/>
+	<SubTexture name="idle0002" x="1302" y="10" width="1282" height="925" frameX="0" frameY="-9" frameWidth="1282" frameHeight="934"/>
+	<SubTexture name="idle0003" x="2594" y="10" width="1282" height="932" frameX="0" frameY="-2" frameWidth="1282" frameHeight="934"/>
+	<SubTexture name="idle0004" x="2594" y="10" width="1282" height="932" frameX="0" frameY="-2" frameWidth="1282" frameHeight="934"/>
+	<SubTexture name="idle0005" x="3886" y="10" width="1282" height="934"/>
+	<SubTexture name="idle0006" x="3886" y="10" width="1282" height="934"/>
+	<SubTexture name="idle0007" x="5178" y="10" width="1282" height="934"/>
+	<SubTexture name="idle0008" x="5178" y="10" width="1282" height="934"/>
+	<SubTexture name="idle0009" x="6470" y="10" width="1282" height="934"/>
+	<SubTexture name="idle0010" x="6470" y="10" width="1282" height="934"/>
+	<SubTexture name="idle0011" x="10" y="954" width="1282" height="934"/>
+	<SubTexture name="idle0012" x="10" y="954" width="1282" height="934"/>
+	<SubTexture name="idle0013" x="10" y="954" width="1282" height="934"/>
+	<SubTexture name="zz down0000" x="1302" y="954" width="1283" height="859" pivotX="0" pivotY="0.15" frameX="0" frameY="-7" frameWidth="1283" frameHeight="866"/>
+	<SubTexture name="zz down0001" x="1302" y="954" width="1283" height="859" frameX="0" frameY="-7" frameWidth="1283" frameHeight="866"/>
+	<SubTexture name="zz down0002" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0003" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0004" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0005" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0006" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0007" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0008" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0009" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0010" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0011" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0012" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0013" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0014" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0015" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0016" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0017" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0018" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0019" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0020" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0021" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz down0022" x="2595" y="954" width="1283" height="866"/>
+	<SubTexture name="zz idle0000" x="3888" y="954" width="1283" height="931" pivotX="0" pivotY="12.4" frameX="0" frameY="-3" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zz idle0001" x="3888" y="954" width="1283" height="931" frameX="0" frameY="-3" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zz idle0002" x="5181" y="954" width="1283" height="933" frameX="0" frameY="-1" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zz idle0003" x="5181" y="954" width="1283" height="933" frameX="0" frameY="-1" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zz idle0004" x="6474" y="954" width="1283" height="934"/>
+	<SubTexture name="zz idle0005" x="6474" y="954" width="1283" height="934"/>
+	<SubTexture name="zz idle0006" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0007" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0008" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0009" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0010" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0011" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0012" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz idle0013" x="10" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0000" x="1303" y="1898" width="1283" height="931" pivotX="0" pivotY="-11.7" frameX="0" frameY="-3" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zz left0001" x="1303" y="1898" width="1283" height="931" frameX="0" frameY="-3" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zz left0002" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0003" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0004" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0005" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0006" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0007" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0008" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0009" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0010" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0011" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0012" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0013" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0014" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0015" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0016" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0017" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0018" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0019" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0020" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0021" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz left0022" x="2596" y="1898" width="1283" height="934"/>
+	<SubTexture name="zz right0000" x="3889" y="1898" width="1283" height="932" pivotX="0" pivotY="-3.9" frameX="0" frameY="-3" frameWidth="1283" frameHeight="935"/>
+	<SubTexture name="zz right0001" x="3889" y="1898" width="1283" height="932" frameX="0" frameY="-3" frameWidth="1283" frameHeight="935"/>
+	<SubTexture name="zz right0002" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0003" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0004" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0005" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0006" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0007" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0008" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0009" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0010" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0011" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0012" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0013" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0014" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0015" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0016" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0017" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0018" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0019" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0020" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0021" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz right0022" x="5182" y="1898" width="1283" height="935"/>
+	<SubTexture name="zz up0000" x="6475" y="1898" width="1283" height="968" pivotX="0" pivotY="-4.5"/>
+	<SubTexture name="zz up0001" x="6475" y="1898" width="1283" height="968"/>
+	<SubTexture name="zz up0002" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0003" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0004" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0005" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0006" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0007" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0008" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0009" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0010" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0011" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0012" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zz up0013" x="10" y="2876" width="1283" height="963" frameX="0" frameY="-5" frameWidth="1283" frameHeight="968"/>
+	<SubTexture name="zzmid down0000" x="1303" y="2876" width="1283" height="878" pivotX="0" pivotY="-20.5" frameX="0" frameY="-10" frameWidth="1283" frameHeight="888"/>
+	<SubTexture name="zzmid down0001" x="1303" y="2876" width="1283" height="878" frameX="0" frameY="-10" frameWidth="1283" frameHeight="888"/>
+	<SubTexture name="zzmid down0002" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0003" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0004" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0005" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0006" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0007" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0008" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0009" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0010" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0011" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0012" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid down0013" x="2596" y="2876" width="1283" height="888"/>
+	<SubTexture name="zzmid idle0000" x="3889" y="2876" width="1283" height="931" pivotX="0" pivotY="5.3" frameX="0" frameY="-3" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zzmid idle0001" x="3889" y="2876" width="1283" height="931" frameX="0" frameY="-3" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zzmid idle0002" x="5182" y="2876" width="1283" height="933" frameX="0" frameY="-1" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zzmid idle0003" x="5182" y="2876" width="1283" height="933" frameX="0" frameY="-1" frameWidth="1283" frameHeight="934"/>
+	<SubTexture name="zzmid idle0004" x="6475" y="2876" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0005" x="6475" y="2876" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0006" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0007" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0008" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0009" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0010" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0011" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0012" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid idle0013" x="10" y="3849" width="1283" height="934"/>
+	<SubTexture name="zzmid left0000" x="1303" y="3849" width="1283" height="929" pivotX="0" pivotY="-13.9" frameX="0" frameY="-4" frameWidth="1283" frameHeight="933"/>
+	<SubTexture name="zzmid left0001" x="1303" y="3849" width="1283" height="929" frameX="0" frameY="-4" frameWidth="1283" frameHeight="933"/>
+	<SubTexture name="zzmid left0002" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0003" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0004" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0005" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0006" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0007" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0008" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0009" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0010" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0011" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0012" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid left0013" x="2596" y="3849" width="1283" height="933"/>
+	<SubTexture name="zzmid right0000" x="3889" y="3849" width="1283" height="911" pivotX="0" pivotY="-11.1" frameX="0" frameY="-6" frameWidth="1283" frameHeight="917"/>
+	<SubTexture name="zzmid right0001" x="3889" y="3849" width="1283" height="911" frameX="0" frameY="-6" frameWidth="1283" frameHeight="917"/>
+	<SubTexture name="zzmid right0002" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0003" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0004" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0005" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0006" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0007" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0008" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0009" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0010" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0011" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0012" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid right0013" x="5182" y="3849" width="1283" height="917"/>
+	<SubTexture name="zzmid up0000" x="6475" y="3849" width="1283" height="940" pivotX="0" pivotY="-32.15"/>
+	<SubTexture name="zzmid up0001" x="6475" y="3849" width="1283" height="940"/>
+	<SubTexture name="zzmid up0002" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0003" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0004" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0005" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0006" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0007" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0008" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0009" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0010" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0011" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0012" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+	<SubTexture name="zzmid up0013" x="10" y="4799" width="1283" height="939" frameX="0" frameY="-1" frameWidth="1283" frameHeight="940"/>
+</TextureAtlas>

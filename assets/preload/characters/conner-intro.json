@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				44,
+				-89
+			],
+			"loop": false,
+			"anim": "intro",
+			"fps": 24,
+			"name": "auuh0",
+			"indices": []
+		},{
+			"offsets": [
+				44,
+				-89
+			],
+			"loop": true,
+			"anim": "stay",
+			"fps": 24,
+			"name": "auuh0",
+			"indices": [31]
+		},
+		{
+			"offsets": [
+				43,
+				-161
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				43,
+				-160
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-302
+			],
+			"loop": true,
+			"anim": "sleep",
+			"fps": 24,
+			"name": "sleep idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-132
+			],
+			"loop": false,
+			"anim": "bruh",
+			"fps": 24,
+			"name": "brrr0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-161
+			],
+			"loop": false,
+			"anim": "ding",
+			"fps": 24,
+			"name": "dinggg0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WFH/C1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon_conner",
+	"flip_x": true,
+	"healthbar_colors": [
+		245,
+		252,
+		247
+	],
+	"camera_position": [
+		60,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

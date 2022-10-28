@@ -1,0 +1,21 @@
+{
+	"difficulties": "hard",
+	"songs": [
+		["Work From Home", "icon_conner", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "work",
+
+	"storyName": "Hey Cat!",
+	"weekBefore": "tutorial",
+	"weekName": "work",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

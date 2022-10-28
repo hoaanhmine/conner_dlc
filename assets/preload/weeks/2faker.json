@@ -1,0 +1,21 @@
+{
+	"difficulties": "hard",
+	"songs": [
+		["Faker", "icon_conner", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "faker",
+
+	"storyName": "I Found You Faker!",
+	"weekBefore": "wfh",
+	"weekName": "twitterl",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

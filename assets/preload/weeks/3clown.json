@@ -1,0 +1,21 @@
+{
+	"difficulties": "hard",
+	"songs": [
+		["Mayhem", "icon-hide", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "clown",
+
+	"storyName": "Hi Old Friend...",
+	"weekBefore": "faker",
+	"weekName": "clown",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

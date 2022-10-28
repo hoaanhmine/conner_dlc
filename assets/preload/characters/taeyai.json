@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				44,
+				-89
+			],
+			"loop": false,
+			"anim": "intro",
+			"fps": 24,
+			"name": "grrrr0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-89
+			],
+			"loop": true,
+			"anim": "stay",
+			"fps": 24,
+			"name": "grrrr0",
+			"indices": [
+				214
+			]
+		},
+		{
+			"offsets": [
+				30,
+				-163
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle door0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-89
+			],
+			"loop": false,
+			"anim": "cat",
+			"fps": 24,
+			"name": "cat?0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-89
+			],
+			"loop": true,
+			"anim": "stay2",
+			"fps": 24,
+			"name": "cat?0",
+			"indices": [23]
+		},
+		{
+			"offsets": [
+				44,
+				-302
+			],
+			"loop": true,
+			"anim": "boo",
+			"fps": 24,
+			"name": "spooki0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WFH/taeyaIII",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon_conner",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		252,
+		247
+	],
+	"camera_position": [
+		60,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
