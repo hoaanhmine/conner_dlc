@@ -81,11 +81,11 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-            ['CONNER DLC TEAM:],
+            ['CONNER DLC TEAM'],
 ['P.GOD','conner','Director,Art, Music, and Voice of Clown Conner in Mayhem\nCreator of Conner','https://twitter.com/ptagorad','fa7f5c'],
 ['TaeYai','taeyai','Programming & Voice of Conner And Clown Conner in YCL\nCreator of TaeYai','https://www.youtube.com/Tae%20Yai','4c8df5'],
 ['Jeng_Battery','jeng','Artist/Animator\n[Sorry The Door Broke]','https://twitter.com/jeng_wanna_kk','4ef274'],
-['TOFU','tofu','Art & Promo Art\n[....]','https://twitter.com/Tofuisstilltofu','f7eb7e'],
+['TOFU','tofu','Art & Promo Art\n....','https://twitter.com/Tofuisstilltofu','f7eb7e'],
       ['Psych Engine Android Port'],
                      ['HMFNF', 'hmfnf', 'Mod porter', 'https://youtube.com/c/HMFNF', 'FFFFFF'],
    ['idklool (or Boyfriend FNF idc)', 'nothing', 'Hi I ported the Psych Engine', 'youtube.com/c/BoyfriendFNF', 'FFFFFF'],
